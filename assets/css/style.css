@@ -276,7 +276,7 @@
 @media (max-width:992px) {
     .section-1 {
         background-color: #EFEFEF;
-        padding: 90px 30px;
+        padding: 90px 10px;
     }
 
     .section-1 .upper .inner-wrap {
@@ -294,7 +294,9 @@
     }
     .section-1 .upper .inner-content {
         width: 80%;
-        padding: 30px 100px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 30px 10px;
     }
 
     .section-1 .upper .inner-content .inner-title {
